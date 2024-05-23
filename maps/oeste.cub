@@ -1,0 +1,11 @@
+NO ./textures/brick_1.xpm
+SO ./textures/brick_1.xpm
+WE ./textures/north_rock_1.xpm
+EA ./textures/wood_1.xpm
+
+F 0,255,0
+C 0,0,255
+
+1111111111111111111
+10000000000000000W1
+1111111111111111111

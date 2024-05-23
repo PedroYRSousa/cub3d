@@ -1,0 +1,11 @@
+NO ./textures/north_rock_1.xpm
+SO ./textures/south_rock_1.xpm
+WE ./textures/west_rock_1.xpm
+EA ./textures/east_rock_1.xpm
+
+F 0,255,0
+C 0,0,255
+
+111
+1N1
+111
